@@ -8,7 +8,9 @@ import com.mygdx.game.Actores.Cubito;
 /**
  * Created by alex on 12/02/2018.
  */
-
+/*
+dfdfgdfgdgfdgdfg
+ */
 public class MyGdxGameScreen extends  Inicio {
 
     private Stage stage;
